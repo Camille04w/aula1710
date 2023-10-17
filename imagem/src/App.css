@@ -1,0 +1,27 @@
+*{
+  background-color: black;
+}
+.App {
+  text-align: center;
+  color:white
+}
+
+.titulo{
+  color:white;
+  font-size: 50px;
+  font-weight: bold; 
+}
+
+.descricao{
+  color:white;
+
+}                                             
+
+.alt{
+  color:white;
+
+}
+
+
+
+
